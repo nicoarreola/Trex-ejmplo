@@ -1,1 +1,1 @@
-# Trex-ejmplo
+# PROC18_LP_AM1
